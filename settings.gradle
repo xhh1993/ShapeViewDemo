@@ -1,0 +1,3 @@
+rootProject.name='ShapeViewDemo'
+include ':app'
+include ':library'
