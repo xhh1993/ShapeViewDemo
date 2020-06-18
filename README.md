@@ -1,5 +1,5 @@
 ### 效果预览
-![效果图](https://github.com/xhh1993/ShapeViewDemo/blob/master/screen_shot/shot1.jpg)
+![效果图](http://free-cn-01.cdn.bilnn.com/ddimg/jfs/t1/114650/8/10449/42366/5eeb8dbdE0891b075/3e09b025fb4090ad.jpg)
 
 ### Module说明
 - 消除常见的shape，selector文件
